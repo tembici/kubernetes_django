@@ -4,7 +4,7 @@ To get started with kubernetes in local environment use <a href="https://microk8
 
 ## Adding alias to "microk8s.kubectl" to "k8s"
 Open `~/.bashrc` and below line at the end of the file.
-```bash
+```bash 
 alias k8s="microk8s.kubectl"
 ```
 
